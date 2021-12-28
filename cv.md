@@ -51,6 +51,6 @@ MSc: Master of Economics in Power-Engineering
   * [task on git "zviady-web-tur"](https://zviady.github.io/new-web/)
 
 ## Languages
-* Georgian -Native
-* Russian -Fluent
-* English - B1 Intermediate: [www.efset.com](https://www.efset.org/cert/Hjhrri)
+* Georgian Native
+* Russian  Fluent
+* English  B1 Intermediate: [www.efset.com](https://www.efset.org/cert/Hjhrri)

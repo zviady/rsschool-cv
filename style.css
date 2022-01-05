@@ -1,0 +1,95 @@
+  * {
+    box-sizing: border-box;
+  }
+    body {
+    display: flex;
+    padding: 0px;
+    flex-direction:column;
+    justify-content: space-between;
+    font-family:'Times New Roman', Verdana, Tahoma, sans-serif, sans-serif;
+    background-color:#fff;
+  }
+  h2 {
+    color: teal;
+  }
+  .my-name {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 2.2em;
+  }
+  .header ,
+  .footer {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 1024px;
+  }
+  .main-navbar {
+    display: flex;
+    margin: 0;
+    padding: 30px;
+    justify-content: center;
+    background-color:rgb(216, 216, 216);
+    color: white;
+    font-weight:800;
+    transition: .4s;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+      }
+  .nav-link {
+    display: inline;
+    padding: 10px;
+    justify-content: left;
+    border:solid 3px #fff;
+    transition: 1.7s;
+  }
+   pre {
+      padding: 10px;
+      color:purple;
+      font-weight: bold;
+      background-color: rgba(135, 175, 180, 0.836);
+  }
+  #code , blockquote{
+     display: inline;
+     color: rgb(113, 129, 116);
+     font-size: 16px;
+     font-weight: bold;
+     font-style: italic;
+  }
+   .main-navbar > a
+   {
+    font-size: 18px;
+    color: white;
+    text-shadow: 1px 2px 3px #000000;
+    text-decoration:none;
+    transition: .8s
+  }
+  a:hover {
+    color:rgb(235, 4, 4);
+    font-weight: 400;
+  }
+  #personalInfo  a {
+    font-size: 1em;
+    letter-spacing: 2px;
+    color:rgb(9, 96, 117);
+    text-decoration: none;
+    transition: .8s
+  }
+  #personalInfo a:hover {
+    font-size: 1.2em;
+
+  }
+ .section , li {
+      color:rgb(54, 11, 11);
+      font-size: 14px;
+  }
+  .main {
+    display: flex;
+    justify-content: center;
+  }
+   .footer{
+       display: flex;
+       justify-content: space-around;
+       align-items: center;
+       background-color:rgb(216, 216, 216);       
+   }
